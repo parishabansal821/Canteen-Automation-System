@@ -1,2 +1,2 @@
 # Canteen-Automation-System
-It is a online portal through which online food orders can be placed which reduces the waiting time for food and also the rush in the canteen
+Its a Web portal for placing order for food online and hence reducing crowd at the peak time in canteen and saving time.
